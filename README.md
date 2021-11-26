@@ -8,9 +8,8 @@
 
 ## Directory structure (Backend)
 ```
-src
-├─server.js
-│
+
+|─server.js
 │   
 ├─controllers
 ├─models
